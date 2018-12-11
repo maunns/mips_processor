@@ -1,0 +1,1 @@
+module bin2hex(input[15:0] in, output reg[
